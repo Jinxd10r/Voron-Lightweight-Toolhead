@@ -11,6 +11,8 @@ adjusting all necessary parameters.
 
 2510 fan uses M2.5x14 BHCS , Euclid probe uses M2x6 BHCS to attach the probe to the mount, and the normal M2 self tappers for the X endstop microswitch. All others use various lengths of M3 BHCS, along with the standard M3 Heatset inserts.
 
+I also reccomend relocating your Z chain to below the rear extrusion . This is the design i used on mine https://www.printables.com/model/279739-voron-can-bus-z-chain-move
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/96708355/227244454-5973961e-bf63-4cbc-8603-03b4a74a69be.png)
 ![Screenshot (7)](https://user-images.githubusercontent.com/96708355/227244540-5d5a13b7-6304-4f54-87c4-6608056a3b0c.png)
 ![20230322_190617](https://user-images.githubusercontent.com/96708355/227244773-09eeff51-79e5-4cd4-a044-7a56c8e991ba.jpg)
