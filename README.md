@@ -1,6 +1,6 @@
 # Voron-Lightweight-Toolhead
 
-Credit and thanks to the designers of the EVA and VZ Printhead on which this is based (and borrowed from), and for all the work they have and continue to do !
+Credit and thanks to the designers of the EVA and VZ Printhead on which this is based (and borrowed from), as well as the Dev team at Voron... and for all the work they have and continue to do !
 
 This is my version of the above toolheads, designed for the Voron 2.4 and Trident. Compatible with 5015 fan and CPAP, and requires an umbillical or Can board.
 Current version uses a Rapido HF , with 2510 Hotend fan , and a Euclid probe. I'll try to add some additional supprt as I go.
